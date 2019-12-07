@@ -16,7 +16,7 @@ Needs youtube-dl to play high resolution videos with vlc.
 
 - Windows with .NET Framework 4.8 
 - VLC player nice to have.
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases) to play high-res videos with vlc.  
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases) to play high-res videos with vlc and for playlist import.  
 
  
 ## License
