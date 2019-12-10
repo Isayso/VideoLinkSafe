@@ -1,8 +1,8 @@
 # YT-Link-Safe
 
-Save and organize your YouTube links in a SQL datatable. Beta version for download.
+Save and organize your YouTube links in a SQL database. Beta version for download.
   
-With Kodi video playlist Import/Export function. Hotkey for link import.  
+With Kodi video playlist Import/Export function. Hotkey for link import, YT playlists import possible.  
 Needs youtube-dl to play high resolution videos with vlc.  
 
  ![UI](list1.JPG)
