@@ -3,7 +3,7 @@
 Save and organize your YouTube links and playlists and local video files in a SQL database. Beta version for download.
   
 With Kodi video playlist Import/Export function. Hotkey for link import, Youtube playlists import possible.  
-Needs youtube-dl to play high resolution videos with vlc.  
+Needs youtube-dl to play high resolution videos with vlc.  Drag&Drop support for local video files with thumbnail image generation. 
 
  ![UI](list1.JPG)
  ![UI](list2.JPG)
