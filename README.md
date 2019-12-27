@@ -5,8 +5,8 @@ Save and organize your YouTube links and playlists and local video files in a SQ
 With Kodi video playlist Import/Export function. Hotkey for link import, Youtube playlists import possible.  
 Needs youtube-dl to play high resolution videos with vlc.  Drag&Drop support for local video files with thumbnail image generation. 
 
- ![UI](list1.JPG)
- ![UI](list2.JPG)
+ ![UI](list_n1.JPG)
+ ![UI](list_n2.JPG)
  
 ### Install
 
@@ -31,5 +31,5 @@ This project is licensed under the GPL 3 License - see the [LICENSE](LICENSE) fi
 Thank you for your great work!
  
  
-![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/YT-Link-Safe/v0.2.?/total)
+![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/YT-Link-Safe/v0.2.9/total)
 
