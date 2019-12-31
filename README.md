@@ -1,6 +1,8 @@
 # Video Link Safe
 
-Save and organize your YouTube links and playlists and local video files in a SQL database. Import for NewPipe Database. Beta version for download.
+Save and organize your YouTube links and playlists and local video files in a SQL database.  
+Import for NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
+Beta version for download.
   
 With Kodi video playlist Import/Export function. Hotkey for link import, Youtube playlists import possible.  
 Needs youtube-dl to play high resolution videos with vlc.  Drag&Drop support for local video files with thumbnail image generation. 
