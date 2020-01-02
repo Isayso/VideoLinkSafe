@@ -33,5 +33,5 @@ This project is licensed under the GPL 3 License - see the [LICENSE](LICENSE) fi
 Thank you for your great work!
  
  
-![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/YT-Link-Safe/v0.2.9/total)
+![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/YT-Link-Safe/v0.2.10/total)
 
