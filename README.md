@@ -33,5 +33,5 @@ This project is licensed under the GPL 3 License - see the [LICENSE](LICENSE) fi
 Thank you for your great work!
  
  
-![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/VideoLinkSafe/v0.2.?/total)
+![GitHub Releases (by Release)](https://img.shields.io/github/downloads/Isayso/VideoLinkSafe/total)
 
