@@ -7,8 +7,7 @@ Beta version for download.
 With Kodi video playlist Import/Export function. Hotkey for link import, Youtube playlists import possible.  
 Needs youtube-dl to play high resolution videos with vlc.  Drag&Drop support for local video files with thumbnail image generation. 
 
- ![UI](new2.12-2.JPG)
- ![UI](new2.12.JPG)
+ ![UI](new2.12-2.JPG) ![UI](new2.12.JPG)
  
 ### Install
 
