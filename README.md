@@ -8,7 +8,8 @@ With Kodi video playlist Import/Export function. Hotkey for link import, Youtube
 Needs youtube-dl to play high resolution videos with vlc.  Drag&Drop support for local video files with thumbnail image generation. 
 
  ![UI](new2.12-2.JPG) ![UI](new2.12.JPG)
- 
+   
+   
 ### Install
 
 - copy all files in one directory, SQL Lite file will be created during first run.
