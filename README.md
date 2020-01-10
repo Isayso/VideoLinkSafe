@@ -12,6 +12,14 @@ Needs youtube-dl to play high resolution videos with vlc.  Drag&Drop support for
 ### Install
 
 - copy all files in one directory, SQL Lite file will be created during first run.
+
+### Quickstart
+
+- add new List
+- open it
+- copy YouTube video url in clipboard
+- press CRTL+Shift+Y .  
+If you copy a YouTube playlist link, you will be asked for a new Listname. This list (blue) will be updated with the "new" button.
  
 ### Prerequisites
 
