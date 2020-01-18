@@ -12,7 +12,7 @@ Needs youtube-dl to play high resolution videos with vlc.  Drag&Drop support for
    
 ### Install
 
-- Execute .msi file, SQL Lite file will be created during first run. 
+- Execute .msi file, you will be ask for a SQL Lite file name and location. 
 
 ### Quickstart
 
