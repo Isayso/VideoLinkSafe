@@ -9,7 +9,7 @@ Beta version of .msi installer avaliable.
 With Kodi video playlist Import/Export function. Hotkey for link import, Youtube playlists import possible.  
 Needs youtube-dl to play high resolution videos with vlc.  Drag&Drop support for local video files with thumbnail image generation. 
 
- ![UI](grid1.JPG) ![UI](grid2.JPG)
+ ![UI](grid1.png) ![UI](grid2.png)
    
    
 ### Install
