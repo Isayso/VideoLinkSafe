@@ -1,10 +1,12 @@
 # Video Link Safe
 
-NEW: Link copy Window as overlay to browser for switching between lists.
+NEW: Drag & Drop of links from browser, download of video links
 
 Save and organize your YouTube links and playlists and local video files in a SQL database.  
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
 Beta version of .msi installer avaliable.
+  
+  ![UI](import_window.png) 
   
 With Kodi video playlist Import/Export function. Hotkey for link import, Youtube playlists import possible.  
 Needs youtube-dl to play high resolution videos with vlc.  Drag&Drop support for local video files with thumbnail image generation. 
