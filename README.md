@@ -1,6 +1,6 @@
 # Video Link Safe
 
-NEW: Drag & Drop of links from browser, download of video links
+NEW: Drag & Drop of links from browser, download of video links, + CTRL plays directly in Kodi
 
 Save and organize your YouTube links and playlists and local video files in a SQL database.  
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
