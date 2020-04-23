@@ -1,5 +1,7 @@
 # Video Link Safe
 
+New version 0.2.21 with much less errors and some new functions
+
 NEW: Drag & Drop of links from browser, download of video links, + CTRL plays directly in Kodi
 
 Save and organize your YouTube links and playlists and local video files in a SQL database.  
