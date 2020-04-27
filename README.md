@@ -4,7 +4,7 @@ New version 0.2.21 with much less errors and some new functions
 
 NEW: Drag & Drop of links from browser, download of video links, + CTRL plays directly in Kodi
 
-Save and organize your YouTube links and playlists and local video files in a SQL database.  
+Save and organize your Video links, local or YouTube in a SQL database. Im-/Export of Kodi playlist files 
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
 Beta version of .msi installer avaliable.
   
@@ -24,8 +24,8 @@ Needs youtube-dl to play high resolution videos with vlc.  Drag&Drop support for
 
 - add new List
 - open it
-- copy YouTube video url in clipboard
-- press CRTL+Shift+Y .  
+- drag and drop local video files on list or youtube browser links on import window.
+
 If you copy a YouTube playlist link, you will be asked for a new Listname. This list (blue) will be updated with the "new" button.
  
 ### Prerequisites
