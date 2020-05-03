@@ -1,6 +1,6 @@
 # Video Link Safe
 
-New version 0.2.21 with much less errors and some new functions
+New version 0.3.1 lots of bug fixes. But after code cleanup, probably some new errors ;)
 
 NEW: Drag & Drop of links from browser, download of video links, + CTRL plays directly in Kodi
 
