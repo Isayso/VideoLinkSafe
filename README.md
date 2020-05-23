@@ -1,5 +1,7 @@
 # Video Link Safe
 
+Soon: Switch to YoutubeExplode with big performance increase!
+
 New version 0.3.1 lots of bug fixes. But after code cleanup, probably some new errors ;)
 
 NEW: Drag & Drop of links from browser, download of video links, + CTRL plays directly in Kodi
