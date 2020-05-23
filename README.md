@@ -1,15 +1,16 @@
 # Video Link Safe
 
+Save and organize your Video links, local or YouTube in a SQL database. Im-/Export of Kodi playlist files 
+Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
+Beta version of .msi installer avaliable.
+  
 Soon: Switch to YoutubeExplode with big performance increase!
 
 New version 0.3.1 lots of bug fixes. But after code cleanup, probably some new errors ;)
 
 NEW: Drag & Drop of links from browser, download of video links, + CTRL plays directly in Kodi
 
-Save and organize your Video links, local or YouTube in a SQL database. Im-/Export of Kodi playlist files 
-Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
-Beta version of .msi installer avaliable.
-  
+
   ![UI](import_window.png) 
   
 With Kodi video playlist Import/Export function. Hotkey for link import, Youtube playlists import possible.  
