@@ -4,7 +4,7 @@ Save and organize your Video links, local or YouTube in a SQL database. Im-/Expo
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
 Beta version of .msi installer avaliable.
   
-Soon: Switch to YoutubeExplode with big performance increase!
+NEW 0.32: Switch to YoutubeExplode with big performance increase! No youtube-dl necessary, ffmpeg included.
 
 New version 0.3.1 lots of bug fixes. But after code cleanup, probably some new errors ;)
 
@@ -35,7 +35,6 @@ If you copy a YouTube playlist link, you will be asked for a new Listname. This 
 
 - **Windows with .NET Framework 4.8** 
 - VLC player nice to have.
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl/releases) to play high-res videos with vlc and for playlist import.  
 
  
 ## License
@@ -44,7 +43,7 @@ This project is licensed under the GPL 3 License - see the [LICENSE](LICENSE) fi
 
 ## Acknowledgments
 
-* the youtube-dl team
+* Tyrrrz for YoutubeExplode 
 * vlc player
 
 Thank you for your great work!
