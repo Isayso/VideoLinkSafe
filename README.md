@@ -1,4 +1,5 @@
 # Video Link Safe
+NEW 0.5 lots of changes, performance increase. 
 
 Save and organize your Video links, local or YouTube in a SQL database. Im-/Export of Kodi playlist files 
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
