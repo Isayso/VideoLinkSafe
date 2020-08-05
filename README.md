@@ -3,13 +3,7 @@ NEW 0.5 lots of changes, performance increase.
 
 Save and organize your Video links, local or YouTube in a SQL database. Im-/Export of Kodi playlist files 
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
-Beta version of .msi installer avaliable.
   
-NEW 0.32: Switch to YoutubeExplode with big performance increase! No youtube-dl necessary, ffmpeg included.
-
-New version 0.3.1 lots of bug fixes. But after code cleanup, probably some new errors ;)
-
-NEW: Drag & Drop of links from browser, download of video links, + CTRL plays directly in Kodi
 
 
   ![UI](import_window.png) 
