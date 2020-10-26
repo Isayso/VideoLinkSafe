@@ -1,4 +1,6 @@
 # Video Link Safe
+new release 0.5.3 with fix for YouTube changes
+
 last release 0.5.2 lots of changes, some new features 
 
 Save and organize your Video links, local or YouTube in a SQL database. Im-/Export of Kodi playlist files 
