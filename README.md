@@ -1,5 +1,8 @@
 # Video Link Safe
-new release 0.5.3 with fix for YouTube changes
+
+new version 0.5.4 with multi threading of YouTube playlist read out, performance increase, bugfixes.
+
+release 0.5.3 with fix for YouTube changes
 
 last release 0.5.2 lots of changes, some new features 
 
