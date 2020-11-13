@@ -1,5 +1,6 @@
 # Video Link Safe
 
+0.5.5 hotfix for a get latest video from playlist bug.
 new version 0.5.4 with multi threading of YouTube playlist read out, performance increase, bugfixes.
 
 release 0.5.3 with fix for YouTube changes
