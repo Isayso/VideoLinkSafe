@@ -1,5 +1,7 @@
 # Video Link Safe
 
+0.5.7  Hotfix for Youtube changes. The import hotkey now copies the clipboard automatically. No ctrl-c necessary before!
+
 0.5.6 lots of changes in UI
 
 0.5.5 hotfix for a get latest video from playlist bug.
