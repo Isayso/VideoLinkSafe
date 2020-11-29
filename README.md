@@ -1,6 +1,7 @@
 # Video Link Safe
 
 0.5.7  Hotfix for Youtube changes. The import hotkey now copies the clipboard automatically. No ctrl-c necessary before!
+D&D of folders (+Ctrl subfolders) to Linklist and playlist. Imports only playable video formats.  
 
 0.5.6 lots of changes in UI
 
