@@ -4,14 +4,6 @@
 D&D of folders (+Ctrl subfolders) to Linklist and playlist. Imports only playable video formats.  
 Known bug: Some videos are not playable in vlc, some are missing the audio track. Unknown cause. 
 
-0.5.6 lots of changes in UI
-
-0.5.5 hotfix for a get latest video from playlist bug.
-new version 0.5.4 with multi threading of YouTube playlist read out, performance increase, bugfixes.
-
-release 0.5.3 with fix for YouTube changes
-
-last release 0.5.2 lots of changes, some new features 
 
 Save and organize your Video links, local or YouTube in a SQL database. Im-/Export of Kodi playlist files 
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
