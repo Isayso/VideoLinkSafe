@@ -2,6 +2,7 @@
 
 0.5.7  Hotfix for Youtube changes. The import hotkey now copies the clipboard automatically. No ctrl-c necessary before!
 D&D of folders (+Ctrl subfolders) to Linklist and playlist. Imports only playable video formats.  
+Known bug: Some videos are not playable in vlc, some are missing the audio track. Unknown cause. 
 
 0.5.6 lots of changes in UI
 
