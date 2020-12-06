@@ -8,8 +8,19 @@ Known bug: Some videos are not playable in vlc, some are missing the audio track
 Save and organize your Video links, local or YouTube in a SQL database. Im-/Export of Kodi playlist files 
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
 
-  
+## Features
 
+### Youtube:  
+- Save: links, playlist  
+- Play: Browser, vlc, kodi
+
+### Bitchute, Rumble:  
+- Save: links  
+- Play: Browser  
+
+### Files:    
+- Save: Files, folders d&d  
+- Play: vlc, Kodi from nfs:NAS  
 
   ![UI](import_window.png) 
   
