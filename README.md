@@ -1,7 +1,8 @@
 # Video Link Safe
 
 0.6  
-Support for Rumble, Bitchute, Youtube, generic html links.
+Support for Rumble, Bitchute, Youtube, generic html links.  
+D&D of Folders (+crtl subfolders) to lists. Only video files are imported, so you can select all at once.
 
 0.5.7  Hotfix for Youtube changes. The import hotkey now copies the clipboard automatically. No ctrl-c necessary before!
 D&D of folders (+Ctrl subfolders) to Linklist and playlist. Imports only playable video formats.  
