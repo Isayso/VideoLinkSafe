@@ -1,5 +1,8 @@
 # Video Link Safe
 
+0.6  
+Support for Rumble, Bitchute, Youtube, generic html links.
+
 0.5.7  Hotfix for Youtube changes. The import hotkey now copies the clipboard automatically. No ctrl-c necessary before!
 D&D of folders (+Ctrl subfolders) to Linklist and playlist. Imports only playable video formats.  
 Known bug: Some videos are not playable in vlc, some are missing the audio track. Unknown cause. 
@@ -22,6 +25,11 @@ Import of NewPipe Database file. Export the database in NewPipe, unzip the file 
 - Save: Files, folders d&d  
 - Play: vlc, Kodi from nfs:NAS  
 
+### html:  
+- Save: any link  
+- Open: Browser  
+  
+  
   ![UI](import_window.png) 
   
 With Kodi video playlist Import/Export function. Hotkey for link import, Youtube playlists import possible.  
