@@ -31,7 +31,7 @@ Import of NewPipe Database file. Export the database in NewPipe, unzip the file 
 - Open: Browser  
   
   
-  ![UI](import_window.png) 
+  ![UI](dropzone1.png) 
   
 With Kodi video playlist Import/Export function. Hotkey for link import, Youtube playlists import possible.  
 Needs youtube-dl to play high resolution videos with vlc.  Drag&Drop support for local video files with thumbnail image generation. 
