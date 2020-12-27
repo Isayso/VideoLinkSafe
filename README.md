@@ -55,6 +55,8 @@ If you copy a YouTube playlist link, you will be asked for a new Listname. This 
 
 - **Windows with .NET Framework 4.8** 
 - VLC player nice to have.
+- uses compiled exe of <a href=http://ffmpeg.org>FFmpeg</a> licensed under the <a href=http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html>LGPLv2.1</a> and its source can be downloaded <a href=https://github.com/FFmpeg/FFmpeg>here</a>.
+
 
  
 ## License
