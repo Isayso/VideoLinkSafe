@@ -1,4 +1,6 @@
 # Video Link Safe
+0.6.1 
+save any internet links
 
 0.6  
 Support for Rumble, Bitchute, Youtube, generic html links.  
