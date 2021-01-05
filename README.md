@@ -1,6 +1,6 @@
 # Video Link Safe
 0.6.1 
-save any internet links
+save any internet links with screenshot as thumbnail.  
 
 0.6  
 Support for Rumble, Bitchute, Youtube, generic html links.  
