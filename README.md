@@ -1,5 +1,5 @@
 # Video Link Safe
-0.6.1 
+0.6.2 
 save any internet links with screenshot as thumbnail.  
 
 0.6  
