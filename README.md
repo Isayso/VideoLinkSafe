@@ -1,4 +1,8 @@
 # Video Link Safe
+
+0.6.3 
+Youtube channel link can be imported as playlist with hotkey and D&D
+
 0.6.2 
 save any internet links with screenshot as thumbnail.  
 
