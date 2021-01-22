@@ -1,7 +1,7 @@
 # Video Link Safe
 
 0.6.3 
-Youtube channel link can be imported as playlist with hotkey and D&D. 
+Youtube channel link can be imported as playlist with hotkey and D&D. (link must have an ID in link like UC....)
 
 0.6.2 
 save any internet links with screenshot as thumbnail.  
