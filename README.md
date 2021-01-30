@@ -1,7 +1,5 @@
 # Video Link Safe
 
-Youtube changed something, so not working for Youtube links any more. 
-
 0.6.3 
 Youtube channel link can be imported as playlist with hotkey and D&D. (link must have an ID in link like UC....)
 
