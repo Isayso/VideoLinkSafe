@@ -1,6 +1,6 @@
 # Video Link Safe
 
-Update of YT playlists broken
+New Issue: Update of YT playlists broken - wait for fix of Nuget package
 
 0.6.3 
 Youtube channel link can be imported as playlist with hotkey and D&D. (link must have an ID in link like UC....)
