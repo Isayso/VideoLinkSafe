@@ -26,9 +26,10 @@ Import of NewPipe Database file. Export the database in NewPipe, unzip the file 
 - Play: vlc, Kodi from nfs:NAS  
 
 ### html:  
-- Save: any link  
-- Open: Browser  
-  
+- Save: links  
+- Play: Browser  
+    
+    
   
   ![UI](dropzone1.png) 
   
