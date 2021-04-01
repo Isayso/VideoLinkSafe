@@ -1,5 +1,7 @@
 # Video Link Safe
 
+New error to add YT links appeared, must wait for fix! 
+
 0.6.4  
 fix for get new Video from YT Playlist error
 
