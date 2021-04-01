@@ -1,23 +1,7 @@
 # Video Link Safe
 
-New error to add YT links appeared, must wait for fix! 
-
-0.6.4  
-fix for get new Video from YT Playlist error
-
-0.6.3 
-Youtube channel link can be imported as playlist with hotkey and D&D. (link must have an ID in link like UC....)
-
-0.6.2 
-save any internet links with screenshot as thumbnail.  
-
-0.6  
-Support for Rumble, Bitchute, Youtube, generic html links.  
-D&D of Folders (+crtl subfolders) to lists. Only video files are imported, so you can select all at once.
-
-0.5.7  Hotfix for Youtube changes. The import hotkey now copies the clipboard automatically. No ctrl-c necessary before!
-D&D of folders (+Ctrl subfolders) to Linklist and playlist. Imports only playable video formats.  
-Known bug: Some videos are not playable in vlc, some are missing the audio track. Unknown cause. 
+0.6.5  
+Send Rumble link to Kodi Addon (matrix) 
 
 
 Save and organize your Video links, local or YouTube in a SQL database. Im-/Export of Kodi playlist files 
@@ -27,9 +11,13 @@ Import of NewPipe Database file. Export the database in NewPipe, unzip the file 
 
 ### Youtube:  
 - Save: links, playlist  
-- Play: Browser, vlc, kodi
+- Play: Browser, vlc, Kodi
 
-### Bitchute, Rumble:  
+### Rumble:
+- Save: links  
+- Play: Browser, Kodi  
+
+### Bitchute:  
 - Save: links  
 - Play: Browser  
 
