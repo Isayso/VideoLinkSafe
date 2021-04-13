@@ -1,7 +1,7 @@
 # Video Link Safe
 
-0.6.5  
-Send Rumble link to Kodi Addon (matrix) 
+0.6.6  
+Odysee/Lbry support, New Hotkey to send clipboard content direct to Kodi device
 
 
 Save and organize your Video links, local or YouTube in a SQL database. Im-/Export of Kodi playlist files 
@@ -14,6 +14,10 @@ Import of NewPipe Database file. Export the database in NewPipe, unzip the file 
 - Play: Browser, vlc, Kodi
 
 ### Rumble:
+- Save: links  
+- Play: Browser, Kodi  
+
+### Odysee/Lbry:
 - Save: links  
 - Play: Browser, Kodi  
 
