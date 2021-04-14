@@ -3,8 +3,7 @@
 0.6.6  
 Odysee/Lbry support, New Hotkey to send clipboard content direct to Kodi device
 
-
-Save and organize your Video links, local or YouTube in a SQL database. Im-/Export of Kodi playlist files 
+Save and organize your Websites, Video links, local or web based in a SQL database. Play links in VLC, webbrowser or Kodi device. Im-/Export of Kodi playlist files 
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
 
 ## Features
