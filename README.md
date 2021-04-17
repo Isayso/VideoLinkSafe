@@ -14,7 +14,7 @@ Odysee/Lbry support, New Hotkey to send clipboard content direct to Kodi device
 ### Rumble:
 - Save: links  
 - Play: Browser, Kodi 
-- - Addon: <a href=https://github.com/OnePlayHD/OneRepo>OneRepo</a>  
+- Addon: <a href=https://github.com/OnePlayHD/OneRepo>OneRepo</a>  
 
 ### Odysee/Lbry:
 - Save: links  
