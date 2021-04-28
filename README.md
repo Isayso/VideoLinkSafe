@@ -25,7 +25,7 @@ Odysee/Lbry support, New Hotkey to send clipboard content direct to Kodi device
 - Play: Browser, Kodi
 - Addon: <a href=https://github.com/winsomehax/plugin.video.bitchute>winsomehax</a>   
 
-### Files:    
+### Video Files:    
 - Save: Files, folders d&d  
 - Play: vlc, Kodi from nfs:NAS  
 
