@@ -3,8 +3,8 @@
 Save and organize your Websites, Video links, local files or web based in a SQL database. Play links in VLC, webbrowser or Kodi device. Im-/Export of Kodi playlist files 
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
 
-0.6.7  
-Odysee/Lbry support, New Hotkey to send clipboard content direct to Kodi device
+0.6.8  
+Odysee/Lbry support, New Hotkey to send clipboard content direct to Kodi device with autoqueue
 ## Features
 
 ### Youtube:  
