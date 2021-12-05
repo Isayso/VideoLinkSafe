@@ -3,6 +3,9 @@
 Save and organize your Websites, Video links, local files or web based in a SQL database. Play links in VLC, webbrowser or Kodi device. Im-/Export of Kodi playlist files 
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
 
+0.6.9
+fix for Youtube slowdown of vlc playback and download
+
 0.6.8  
 Odysee/Lbry support, New Hotkey to send clipboard content direct to Kodi device with autoqueue
 ## Features
@@ -17,6 +20,10 @@ Odysee/Lbry support, New Hotkey to send clipboard content direct to Kodi device 
 - Addon: <a href=https://github.com/OnePlayHD/OneRepo>OneRepo</a>  
 
 ### Odysee/Lbry:
+- Save: links  
+- Play: Browser, Kodi  
+
+### Vimeo:
 - Save: links  
 - Play: Browser, Kodi  
 
