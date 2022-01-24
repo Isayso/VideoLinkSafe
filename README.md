@@ -4,7 +4,7 @@ Save and organize your Websites, Video links, local files or web based in a SQL 
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
 
 0.7  
-faster startup, Thumbnails get updated automatically 
+faster startup, Thumbnails get updated automatically, send text to Kodi function 
 
 
 0.6.9
