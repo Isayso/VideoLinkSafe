@@ -4,7 +4,7 @@ Save and organize your Websites, Video links, local files or web based in a SQL 
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
 
 1.0  
-Final release, next version based on .NET6
+Final release, next version based on .NET6    <a href=https://github.com/Isayso/VideoLinks>VideoLinks</a> 
 
 0.7  
 faster startup, Thumbnails get updated automatically, send text to Kodi function 
