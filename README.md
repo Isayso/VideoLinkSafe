@@ -3,7 +3,7 @@
 Save and organize your Websites, Video links, local files or web based in a SQL database. Play links in VLC, webbrowser or Kodi device. Im-/Export of Kodi playlist files 
 Import of NewPipe Database file. Export the database in NewPipe, unzip the file on Windows and import it. 
 
-First version of <a href=https://github.com/Isayso/VideoLinks>VideoLinks</a> released!
+First version of <a href=https://github.com/Isayso/VideoLinks>VideoLinks</a> released! Supports import of sqlite file from VideoLinkSafe and NewPipe.
 
 1.0  
 Final release, next version based on .NET6    <a href=https://github.com/Isayso/VideoLinks>VideoLinks</a> 
